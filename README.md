@@ -20,7 +20,7 @@ Self-motivated learner with strong problem-solving skills and a continuous impro
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [MyPortfolio](http://suraj9075.github.io/portfolio/)
 * ✉️  You can contact me at [suraj4152.com@gmail.comn](mailto:suraj4152.com@gmail.comn)
-* 🧠  I'm currently learning FLask | AIML
+* 🧠  I'm currently learning FLask | AIML | FastAPI
 * 👥  I'm looking to collaborate on Django | Flask
 
 <p align="left">
